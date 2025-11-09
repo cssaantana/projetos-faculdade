@@ -10,25 +10,25 @@
 ## 2º Período
 *Laboratório de Programação II*  
 Exercícios em *Python*, explorando fundamentos de lógica e estrutura de código.  
-[Acessar repositório](https://github.com/caroline/python-lab2)
+[Acessar repositório](https://github.com/cssaantana/python-lab2)
 
 ---
 
 ## 3º Período
 *Estrutura de Dados*  
 Implementações de *listas, pilhas, filas, árvores, grafos e recursividade* em Java.  
-[Acessar repositório](https://github.com/caroline/java-estrutura-de-dados)
+[Acessar repositório](https://github.com/cssaantana/java-estrutura-de-dados)
 
 *Laboratório de Programação III*  
 Aplicação *To-Do List* feita com HTML, CSS e JavaScript.  
-[Acessar repositório](https://github.com/caroline/web-todo-list)
+[Acessar repositório](https://github.com/cssaantana/web-todo-list)
 
 ---
 
 ## 4º Período
 *Programação Orientada a Objetos*  
 Exercícios sobre *herança, polimorfismo e interfaces* em Java.  
-[Acessar repositório](https://github.com/caroline/java-poo-exercicios)
+[Acessar repositório](https://github.com/cssaantana/java-poo)
 
 ---
 
