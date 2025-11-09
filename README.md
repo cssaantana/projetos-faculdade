@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Minha jornada no curso de <b>Sistemas de Informação</b>, semestre a semestre.</em><br>
-  <sub>Projetos que contam minha evolução como desenvolvedora!</sub>
+  <sub>Projetos que contam minha evolução como desenvolvedora! 💗</sub>
 </p>
 
 ---
