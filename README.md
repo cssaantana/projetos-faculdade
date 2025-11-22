@@ -30,6 +30,9 @@ Aplicação To-Do List feita com HTML, CSS e JavaScript.
 Exercícios sobre herança, polimorfismo e interfaces em Java.  
 [→ Acessar repositório](https://github.com/cssaantana/java-poo)
 
+Projeto CivLex: Plataforma de Atendimento Jurídico Gratuito   
+[→ Acessar repositório](https://github.com/missdayane/civlex)
+
 ---
 
 <p align="center">
